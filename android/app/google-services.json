@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658467762037",
+    "project_id": "my-gpt-gemini",
+    "storage_bucket": "my-gpt-gemini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658467762037:android:627d123788905f538b2d3c",
+        "android_client_info": {
+          "package_name": "com.example.mygpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCygPDUXOl3fuOBugsmTsGk9ns3OBafyyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
