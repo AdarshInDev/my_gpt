@@ -38,7 +38,8 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
       text: 'QRify',
     )
   ];
-  static const apiKey = "AIzaSyCy31TCaNZQ34De0hR4p4WRnPQB5gPRXRM";
+ 
+  static const apiKey = 'your_apiKey';
   bool isLoading = false;
   bool isedit = false;
   bool issend = false;
